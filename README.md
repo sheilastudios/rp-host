@@ -1,8 +1,10 @@
-# RP Host
+# The Entropy Engine
 
 ## Roleplay. Story. Companion.
 
-**RP Host is Sheila Studios' privately developed project family for interactive worlds, sustained fiction, and ongoing AI companionship.** Its central question is what should carry forward when a conversation or scene ends: not only the words, but the consequences, relationships, unfinished matters, and differences in what each participant knows.
+*The Entropy Engine is the current working name for the project family previously presented as RP Host. The name may change; the repository URL remains `rp-host` for continuity.*
+
+**The Entropy Engine is Sheila Studios' privately developed project family for interactive worlds, sustained fiction, and ongoing AI companionship.** Its central question is what should carry forward when a conversation or scene ends: not only the words, but the consequences, relationships, unfinished matters, and differences in what each participant knows.
 
 These are three distinct experiences. An author may revise a story. A player should retain control of their own character. A companion's ongoing identity should not be rewritten as though it were an unwanted draft.
 
@@ -24,11 +26,11 @@ Story mode addresses authored fiction rather than player-directed interaction. I
 
 The important distinctions are literary as well as technical. A character can be wrong without the story contradicting itself. Two people can remember the same encounter differently. An unresolved relationship can remain unresolved rather than being summarized into agreement. A revised passage should not quietly leave its discarded consequences behind.
 
-The retained RP Host work includes story-oriented continuity designs, structured authoring workflows, and a related file-backed prototype with recovery and branch-integrity checks. A distinct related application, **[Infinite Manuscript](https://github.com/sheilastudios/infinite-manuscript)**, is a visual, continuity-aware storytelling studio: imagery, motifs and atmosphere develop alongside authored prose, with character readings and reusable scene artwork.
+The retained work on The Entropy Engine includes story-oriented continuity designs, structured authoring workflows, and a related file-backed prototype with recovery and branch-integrity checks. A distinct related application, **[Infinite Manuscript](https://github.com/sheilastudios/infinite-manuscript)**, is a visual, continuity-aware storytelling studio: imagery, motifs and atmosphere develop alongside authored prose, with character readings and reusable scene artwork.
 
-Infinite Manuscript's October 22 director-led alpha checkpoint includes a real synthetic-story journey in which revised prose was carried into a subsequent continuation. Later records demonstrate native scene images, anticipatory artwork withheld until fresh selection, image reuse and a character portrait. Its Kaelen-originated proposal and Atelier relationship are distinct from its reuse of selected RP and Companion components. These application results belong to Infinite Manuscript, not automatically to the entire RP Host family.
+Infinite Manuscript's October 22 director-led alpha checkpoint includes a real synthetic-story journey in which revised prose was carried into a subsequent continuation. Later records demonstrate native scene images, anticipatory artwork withheld until fresh selection, image reuse and a character portrait. Its Kaelen-originated proposal and Atelier relationship are distinct from its reuse of selected RP and Companion components. These application results belong to Infinite Manuscript, not automatically to the entire Entropy Engine family.
 
-**Maturity:** RP Host has documented Story-specific design and continuity components; the separately named Infinite Manuscript has a documented usable local Story alpha and later visual demonstrations. Its expanded goal remains open, including a physical-state narration finding and a pending browser regression. Neither establishes whole-novel fidelity, measured literary improvement, or a production release integrating all three pillars.
+**Maturity:** The Entropy Engine has documented Story-specific design and continuity components; the separately named Infinite Manuscript has a documented usable local Story alpha and later visual demonstrations. Its expanded goal remains open, including a physical-state narration finding and a pending browser regression. Neither establishes whole-novel fidelity, measured literary improvement, or a production release integrating all three pillars.
 
 ## Companion: continuity with an identity of its own
 
@@ -58,4 +60,4 @@ See [Rights and availability](RIGHTS.md). Private conversations, manuscripts, pr
 
 ## Discuss related work
 
-Use [Sheila Studios' guided intake](https://sheilastudios.com/intake) to tell us about related work you would like to discuss. This is a conversation about a potential project, not a software download, hosted beta or offer of an available RP Host service.
+Use [Sheila Studios' guided intake](https://sheilastudios.com/intake) to tell us about related work you would like to discuss. This is a conversation about a potential project, not a software download, hosted beta or offer of an available Entropy Engine service.
